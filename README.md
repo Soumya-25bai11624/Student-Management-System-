@@ -104,6 +104,12 @@ The tests write to their own throwaway `test-data-*` folders, so running them wo
 <img width="1375" height="348" alt="Screenshot 2026-09-16 180837" src="https://github.com/user-attachments/assets/08c70391-1db1-4b32-860f-68c5dfb5ff10" />
 <img width="447" height="412" alt="Screenshot 2026-09-16 180858" src="https://github.com/user-attachments/assets/0e80f284-7163-44a3-b9fa-e1948b3c4f8f" />
 
+<img width="487" height="407" alt="Screenshot 2026-09-16 180917" src="https://github.com/user-attachments/assets/35fa8fde-adb9-4e3f-9793-fe6ff869038f" />
+
+<img width="395" height="432" alt="Screenshot 2026-09-16 180925" src="https://github.com/user-attachments/assets/71c139dc-bffc-46dd-a5d9-13b37a6003e1" />
+
+<img width="488" height="366" alt="Screenshot 2026-09-16 180932" src="https://github.com/user-attachments/assets/58b7ce14-cbce-422c-8974-b0671f1fa0e6" />
+
 
 
 
