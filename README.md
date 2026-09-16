@@ -96,10 +96,27 @@ There's a small, dependency-free test suite that checks the core validation and 
 The tests write to their own throwaway `test-data-*` folders, so running them won't touch your real `data/` folder.
 
 ## Screenshots
+<img width="1000" height="980" alt="Screenshot 2026-09-16 180043" src="https://github.com/user-attachments/assets/df2684ae-a9fa-48e6-beab-8c3dbf248fd7" />
+<img width="930" height="377" alt="Screenshot 2026-09-16 180334" src="https://github.com/user-attachments/assets/f32aea10-5f67-4583-a1ab-269c0d4eded5" />
+<img width="930" height="410" alt="Screenshot 2026-09-16 180359" src="https://github.com/user-attachments/assets/71acbf3b-91e4-4a4a-a77e-493d29825376" />
+<img width="508" height="401" alt="Screenshot 2026-09-16 180744" src="https://github.com/user-attachments/assets/3e9ac127-7f3c-43e3-8c43-3aba9c79f9ad" />
+<img width="777" height="371" alt="Screenshot 2026-09-16 180808" src="https://github.com/user-attachments/assets/758cc4c3-738a-43c1-84a4-53db91ce7bb1" />
+<img width="372" height="397" alt="Screenshot 2026-09-16 180824" src="https://github.com/user-attachments/assets/127b970e-7275-4e99-8ddc-bef8dae0ab12" />
+<img width="1375" height="348" alt="Screenshot 2026-09-16 180837" src="https://github.com/user-attachments/assets/69338791-640f-4b9f-aaa0-0d34b51d51f6" />
 
-A few screenshots from an actual run — login, data entry, report generation, and the test output:
+<img width="447" height="412" alt="Screenshot 2026-09-16 180858" src="https://github.com/user-attachments/assets/8b5e14d5-1819-45fb-bdf1-9b42e4bcfa58" />
+<img width="487" height="407" alt="Screenshot 2026-09-16 180917" src="https://github.com/user-attachments/assets/0cb85f33-4f1f-4f35-b365-66d057a9439b" />
+<img width="395" height="432" alt="Screenshot 2026-09-16 180925" src="https://github.com/user-attachments/assets/a36a9c8a-2b38-4817-8834-d2e35ce2e70e" />
 
-- `docs/screenshots/01-login-and-menu.png`
-- `docs/screenshots/02-student-course-enrollment.png`
-- `docs/screenshots/03-reports.png`
-- `docs/screenshots/04-test-results.png`
+
+<img width="488" height="366" alt="Screenshot 2026-09-16 180932" src="https://github.com/user-attachments/assets/d740cc4e-dade-4e6c-ae55-22ee7fc72854" />
+
+
+
+
+
+
+
+
+
+
