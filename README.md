@@ -94,10 +94,17 @@ There's a small, dependency-free test suite that checks the core validation and 
 The tests write to their own throwaway `test-data-*` folders, so running them won't touch your real `data/` folder.
 
 ## Screenshots
+<img width="1000" height="980" alt="Screenshot 2026-09-16 180043" src="https://github.com/user-attachments/assets/2101e09a-d46f-4b82-9424-5363550111b2" />
+<img width="930" height="377" alt="Screenshot 2026-09-16 180334" src="https://github.com/user-attachments/assets/e752f32c-ef6e-4366-a3bf-1c5263305c68" />
+<img width="930" height="410" alt="Screenshot 2026-09-16 180359" src="https://github.com/user-attachments/assets/23a25ad2-95eb-44cb-afc2-974637fb45b2" />
+<img width="508" height="401" alt="Screenshot 2026-09-16 180744" src="https://github.com/user-attachments/assets/e0ac81ed-7906-4488-b0a6-65a5cb124603" />
+<img width="777" height="371" alt="Screenshot 2026-09-16 180808" src="https://github.com/user-attachments/assets/aef5faf5-07a7-4116-8f60-180143b0ee1b" />
+<img width="372" height="397" alt="Screenshot 2026-09-16 180824" src="https://github.com/user-attachments/assets/d2192ab5-62cb-4860-b93b-87e6be7338f4" />
 
-A few screenshots from an actual run — login, data entry, report generation, and the test output:
+<img width="1375" height="348" alt="Screenshot 2026-09-16 180837" src="https://github.com/user-attachments/assets/08c70391-1db1-4b32-860f-68c5dfb5ff10" />
+<img width="447" height="412" alt="Screenshot 2026-09-16 180858" src="https://github.com/user-attachments/assets/0e80f284-7163-44a3-b9fa-e1948b3c4f8f" />
 
-- `docs/screenshots/01-login-and-menu.png`
-- `docs/screenshots/02-student-course-enrollment.png`
-- `docs/screenshots/03-reports.png`
-- `docs/screenshots/04-test-results.png`
+
+
+
+
